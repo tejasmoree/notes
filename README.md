@@ -1,3 +1,6 @@
 Hosted on https://keep-notes-tejas.web.app
 Made using React.
-This app is similar to Google keep with all functionalities.
+Key Features:
+1) Store notes
+2) Responsive UI
+3) Similar to Google keep
