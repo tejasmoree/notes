@@ -1,4 +1,4 @@
-React app hosted on https://keep-notes-tejas.web.app
+React app hosted on https://writenotes.vercel.app
 
 Key Features:
 1) Store notes
